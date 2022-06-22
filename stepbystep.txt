@@ -1,0 +1,6 @@
+#iniciando projeto react
+npm create vite@latest
+#responda y e dê um nome para o projeto
+#event-platform
+#entre na nova pasta do projeto
+npm i
