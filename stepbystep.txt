@@ -4,3 +4,6 @@ npm create vite@latest
 #event-platform
 #entre na nova pasta do projeto
 npm i
+npm run dev
+npm i tailwindcss postcss autoprefixer -D
+npx tailwindcss init -p
